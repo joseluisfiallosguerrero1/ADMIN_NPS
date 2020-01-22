@@ -1,0 +1,389 @@
+.prueba{
+    width:700px;
+    padding-top:20px; 
+  }
+  .prueba2{
+    width:600px;
+  }
+  .tituloModal{
+    padding-left:26%; 
+  }
+  .boton{
+    padding-left:20%; 
+  }
+  .boton2{
+    padding-left:20%; 
+    padding-top:15%; 
+  }
+  .boton3{
+    padding-left:30%; 
+    padding-top:15%; 
+  }
+  .tituloModal1{
+    padding-left:15%; 
+  }
+  .tituloModal2{
+    width:500px; 
+    padding-top:5%;
+    padding-left:10%; 
+  }
+  .barra{
+    width:200px;
+    padding-left:10%;
+  }
+  .hmc {
+    cursor: pointer;
+    padding-left: 15%;
+  }
+  .modalhans7 {
+  height: 30%;
+  width: 550;
+  padding-top: 1.5%;
+  background: white;
+}
+.tabl{
+  width: 550px;
+}
+.cubo2{
+  width: 570px;
+}
+#combo {
+  padding-left: 85%;
+  padding-right: 3%;
+  padding-top: 0.5%;
+}
+#institutions {
+  padding-left: 20%;
+  padding-right: 5%;
+  padding-top: 8%;
+  padding-bottom: 10%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+#institution {
+  height: 100%;
+  width: 100%;
+}
+#img-card {
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  padding-left: 0.5%;
+  padding-right: 0.5%;
+}
+#my_icon {
+  height: 90%px;
+  width: 80%;
+}
+.responsive-text{
+  font-size:1.7vh;
+  font-size: 0.9vw;
+
+}
+.miicon {
+  font-size: 170px;
+}
+#combo2 {
+  padding-left: 1%;
+  padding-right: 40%;
+  padding-top: 1.5%;
+}
+.modal-personal {
+  height: 60%;
+  width: 30%;
+  padding-top: 1.5%;
+}
+.ADDINSTI {
+  height: 185px;
+  width: 240px;
+}
+.modal-personal1 {
+  height: 90%;
+  width: 100%;
+}
+#caja {
+  padding-left: 20%;
+  padding-top: 5%;
+}
+.group {
+  height: 40%;
+}
+.letra {
+  font: 15px;
+}
+#centro {
+  padding-left: 9%;
+  display: inline-block;
+  height: 100%;
+  margin-right: 7%;
+  -webkit-flex: 1; /* Safari 6.1+ */
+  -ms-flex: 1; /* IE 10 */
+  flex: 1;
+  padding-top: 0%;
+}
+#centro2 {
+  padding-left: 35%;
+  display: inline-block;
+}
+.iconos {
+  display: inline-block;
+  /*padding-left: 90%;*/
+  height: 100%;
+  -webkit-flex: 1; /* Safari 6.1+ */
+  -ms-flex: 1; /* IE 10 */
+  flex: 1;
+  padding-top: 2.5%;
+}
+#tit {
+  -webkit-flex: 1; /* Safari 6.1+ */
+  -ms-flex: 1; /* IE 10 */
+  flex: 1;
+  padding-top: 2.5%;
+  width: 20%;
+  height: 100%;
+  margin-right: 4%;
+
+  display: inline-block;
+}
+.otra {
+  padding: 1%;
+  width: 100%;
+  height: 100%;
+}
+.changeInClick {
+  width: 100%;
+
+  height: 100%;
+  background-color: rgb(225, 225, 225);
+}
+.botones {
+  padding-top: 0.5%;
+  padding-left: 47.5%;
+}
+.listaCards{
+  margin-top:0px; 
+}
+.config {
+  padding-left: 65%;
+  padding-right: 30%;
+}
+.newspan {
+  color: #0048ff;
+  font-size: 20px;
+}
+.nuevas {
+  margin: 0px;
+  margin-right: 0px;
+
+  width: 100%;
+  height: 30px;
+}
+.nuevascards {
+  padding-top: 5%;
+}
+.config2 {
+  margin-right: 25%;
+
+  padding-left: 40%;
+}
+.sidenav li > a {
+  padding-left: 13.5%;
+  text-align: left;
+}
+
+div div>h6{
+  text-align:left;
+  padding-top:5%;
+   
+}
+.ReactModalPortal > div {
+  opacity: 0;
+}
+.nuevascards > ul{
+  margin-top:0px;
+}
+
+.ReactModalPortal .ReactModal__Overlay {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  transition: opacity 260ms ease-in-out;
+}
+.ReactModalPortal .ReactModal__Overlay--after-open {
+  opacity: 1;
+}
+.ReactModalPortal .ReactModal__Overlay--before-close {
+  opacity: 0;
+
+}
+
+#bd {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.modalhans {
+  width: 60%;
+  padding-top: 1.5%;
+  background: white;
+}
+.modalhans2 {
+  height: 80%;
+  width: 60%;
+  padding-top: 1.5%;
+  background: white;
+}
+.modalhans3 {
+  width: 60%;
+  padding-top: 1.5%;
+  background: white;
+}
+
+.modalhans7 {
+  height: 30%;
+  width: 40%;
+  padding-top: 1.5%;
+  background: white;
+}
+
+.modalhans33 {
+  height: 25%;
+  width: 25%;
+
+  background: white;
+}
+
+#combohan {
+  padding-left: 85%;
+  padding-right: 3%;
+  padding-top: 0.5%;
+}
+#hmc {
+  cursor: pointer;
+}
+#combo2han {
+  padding-left: 30%;
+  padding-top: 5%;
+}
+
+#au {
+  margin: 7px 0;
+}
+
+#au1 {
+  border: 2px white;
+}
+.arreglobtn{
+  font-size: 70%;
+  margin-left: 2%;
+}
+#apo {
+  cursor: pointer;
+}
+.arregloRow{
+  padding-right: 0%;
+}
+
+#hanc {
+  margin-left: 0.5%;
+}
+#han {
+  padding-bottom: 0%;
+  padding-top: 0;
+  margin-left: 5%;
+  margin-right: 5%;
+ 
+}
+.arregloModal{
+  width:500px;
+}
+#han2 {
+  padding-bottom: 0%;
+  padding-top: 0;
+  margin-left: 20%;
+  margin-right: 20%;
+ 
+}
+#hanc1 {
+  transform: scale(1.5);
+}
+#combo23han {
+  padding-left: 25%;
+  padding-top: 5%;
+  padding-right: 23%;
+}
+.cardMenu{
+  padding-left: 0%;
+  padding-right: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+#combo234han {
+  padding-left: 25%;
+  padding-top: 5%;
+  padding-right: 16%;
+}
+
+#combo23han {
+  padding-left: 28%;
+  padding-top: 5%;
+  padding-right: 23%;
+}
+
+#combo {
+  padding-left: 85%;
+  padding-right: 3%;
+  padding-top: 0.5%;
+}
+#pure_one {
+  bottom: 85px;
+  right: 24px;
+}
+#pure_one2 {
+  bottom: 150px;
+  right: 24px;
+}
+#scHan {
+  width: 100%;
+  height: 150px;
+  overflow: auto;
+}
+
+tbody {
+  display: block;
+  height: 120px;
+  overflow: auto;
+}
+thead,
+tbody tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+thead {
+  width: calc(100% - 1em);
+}
+table {
+  width: 100%;
+}
+
+#iu {
+  padding-right: 37%;
+}
+
+.roar2 {
+  margin-top: 2%;
+}
+.roar1 {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.roar1 {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+#btutor {
+  width: 100%;
+}

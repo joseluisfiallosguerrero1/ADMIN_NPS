@@ -1,0 +1,45 @@
+{
+  "name": "trabajo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joseLuis",
+  "license": "ISC",
+  "dependencies": {
+    "azure-storage": "^2.10.3",
+    "babel-cli": "^6.26.0",
+    "cors": "^2.8.5",
+    "csv-parser": "^2.3.2",
+    "csv-stream": "^0.2.0",
+    "encrypt": "0.0.1",
+    "excel-stream": "^1.1.1",
+    "excel4node": "^1.7.2",
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "fs": "0.0.1-security",
+    "into-stream": "^5.1.0",
+    "jwt-simple": "^0.5.6",
+    "md5": "^2.2.1",
+    "moment": "^2.24.0",
+    "mssql": "^4.1.0",
+    "node-fetch": "^1.7.3",
+    "passport": "^0.4.0",
+    "path": "^0.12.7",
+    "randomstring": "^1.1.5",
+    "react": "^16.9.0",
+    "react-router-dom": "^5.1.0",
+    "read-excel-file": "^4.0.2",
+    "request": "^2.88.0",
+    "sequelize": "^5.16.0",
+    "stream": "0.0.2",
+    "tedious": "^6.3.0",
+    "util": "^0.12.1",
+    "xlsx-to-json": "^0.3.0"
+  },
+  "engines": {
+    "node": "^10.14.1"
+  },
+  "description": "Backend NpsProject"
+}
