@@ -24,7 +24,7 @@
     "md5": "^2.2.1",
     "moment": "^2.24.0",
     "mssql": "^4.1.0",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^3.1.1",
     "passport": "^0.4.0",
     "path": "^0.12.7",
     "randomstring": "^1.1.5",
